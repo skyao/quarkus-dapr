@@ -1,4 +1,7 @@
 # Quarkus - Dapr
+[![Build](https://github.com/quarkiverse/quarkus-dapr/workflows/Build/badge.svg?branch=main)](https://github.com/quarkiverse/quarkus-dapr/actions?query=workflow%3ABuild)
+[![License](https://img.shields.io/github/license/quarkiverse/quarkus-dapr)](http://www.apache.org/licenses/LICENSE-2.0)
+[![Central](https://img.shields.io/maven-central/v/io.quarkiverse.dapr/quarkus-dapr-parent?color=green)](https://search.maven.org/search?q=g:io.quarkiverse.dapr%20AND%20a:quarkus-dapr-parent)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -18,7 +21,7 @@ developers a framework to address a wider range of distributed application archi
 
 ![](https://quarkus.io/assets/images/quarkus_metrics_graphic_bootmem_wide.png)
 
-For more information about quarkus, please go https://quarkus.io/.
+For more information about Quarkus, please go https://quarkus.io/.
 
 ### What is Dapr?
 
@@ -29,6 +32,8 @@ Leveraging the benefits of a sidecar architecture, Dapr helps you tackle the cha
 microservices and keeps your code platform agnostic.
 
 ![](https://dapr.io/images/building-blocks.png)
+
+For more information about Dapr, please go https://dapr.io/.
 
 ### What is Quarkus-Dapr?
 
